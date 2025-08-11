@@ -1,2 +1,2 @@
 # Basic_TravelForm
-made a landing page using PHP.
+made a landing page using PHP and MYSQL.
